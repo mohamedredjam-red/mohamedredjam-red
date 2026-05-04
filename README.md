@@ -1,26 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohamed Redjam</h1>
-<h3 align="center">A passionate Web Developer</h3>
+# 👋 Hi, I'm Mohamed Redjam
+
+💻 Web Developer | Building modern and simple web experiences
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **JavaScript & Modern Web Technologies**
-- 💻 I build responsive and clean websites
-- 🎯 Focused on becoming a professional developer
+## 🚀 About Me
+- 🌱 I’m currently improving my web development skills
+- 💡 I build clean and user-friendly websites
+- 🎯 Focused on creating real projects and growing professionally
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+## 🌐 My Projects
+
+### 🔹 Portfolio Website
+👉 https://mohamedredjam-red.github.io/porfile/
+
+### 🔹 Learning English Platform
+👉 https://mohamedredjam-red.github.io/learning-english/
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+## 🛠️ Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Git & GitHub
 
 ---
 
-### 📫 Connect with me
-- Email: your-email@example.com
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mohamedredjam-red&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedredjam-red&layout=compact)
+
+![Streak](https://streak-stats.demolab.com/?user=mohamedredjam-red)
+
+---
+
+## 🌍 Connect With Me
+- 🌐 Portfolio: https://mohamedredjam-red.github.io/porfile/
+- 📚 English Project: https://mohamedredjam-red.github.io/learning-english/
+- 💻 GitHub: https://github.com/mohamedredjam-red
+- 📧 Email: your-email@example.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real websites 🚀
