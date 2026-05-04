@@ -1,62 +1,75 @@
 # 👋 Hi, I'm Mohamed Redjam
 
-💻 Web Developer | UI Designer | Beginner → Intermediate  
-🚀 Building interactive educational platforms  
-🌍 Algeria  
+💻 **Frontend Developer & UI Designer**
+🚀 Building modern, interactive web experiences
+🌍 Based in Algeria
 
 ---
 
-## 🌐 My Projects
+## 🚀 Featured Projects
 
-### 1. Portfolio Website
+### 🌐 Portfolio Website
+
 🔗 https://mohamedredjam-red.github.io/porfile/
-
-A personal portfolio to showcase my identity and development journey.
+Clean and responsive personal portfolio showcasing my work and skills.
 
 ---
 
-### 2. English Learning Platform
+### 🎓 English Learning Platform
+
 🔗 https://mohamedredjam-red.github.io/learning-english/
+Interactive platform designed to make English learning engaging and effective.
 
-An interactive English learning platform with structured levels and gamified learning.
+**Key Features:**
+
+* 📚 Structured levels (A1 → C1)
+* 🎧 Listening & Speaking training
+* 📖 Interactive story reader
+* 🧠 Vocabulary system with visual learning
+* 🎮 Gamified learning (Hangman, Word Scramble)
+* 📝 Study planner (To-Do system)
+* 🔊 Text-to-speech learning mode
 
 ---
 
-## 🧠 About My English Learning Platform
+## 🧠 What I Do
 
-- Skills: Listening / Speaking / Reading / Writing (A1 → C1)
-- Interactive story reader (page flip system like *Little Red Riding Hood*)
-- Grammar lessons (basic level)
-- Vocabulary flashcards (image + guessing system)
-- Business English section
-- Games:
-  - Hangman
-  - Word Scramble
-- To-Do List for study goals
-- Text Translator system
-- Kids English section
-- Custom Listening Mode (any text → audio)
+* Build responsive and user-friendly web interfaces
+* Design clean and intuitive UI/UX experiences
+* Develop interactive educational platforms
+* Focus on performance and simplicity
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- UI/UX Design
+💡 **Core:**
+HTML5 • CSS3 • JavaScript
+
+🎨 **Design:**
+UI/UX • Figma (if you use it, keep it — if not, remove it)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedredjam-red&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedredjam-red\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Current Focus
 
-- Improving English learning platform
-- Adding more interactive features
-- Learning advanced JavaScript
-- Building real-world projects
+* Enhancing my English learning platform
+* Building more real-world projects
+* Improving JavaScript (Advanced concepts)
+* Learning modern frontend tools
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/mohamedredjam-red
+
+---
+
+✨ *Always learning, always building.*
