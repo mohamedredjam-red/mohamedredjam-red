@@ -1,70 +1,56 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://your-header-image.png" alt="Mohamed Redjam GitHub README header image">
-</p>
+# 👋 Hi, I'm Mohamed Redjam
+
+💻 Web Developer | UI Designer | Beginner → Intermediate  
+🚀 Building interactive educational platforms  
+🌍 Algeria  
 
 ---
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://github.com/mohamedredjam-red">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a>
+## 🌐 My Projects
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
+### 1. Portfolio Website
+🔗 https://mohamedredjam-red.github.io/porfile/
 
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a>
-
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
-  </a>
-</p>
+A personal portfolio to showcase my identity and development journey.
 
 ---
 
-## 🚀 Check My Projects
+### 2. English Learning Platform
+🔗 https://mohamedredjam-red.github.io/learning-english/
 
-### 🌐 Portfolio Website
-<a href="https://mohamedredjam-red.github.io/porfile/" target="_blank" rel="noreferrer nofollow">
-  <img src="https://your-portfolio-preview-image.png" alt="Portfolio Preview" height="400">
-</a>
+An interactive English learning platform with structured levels and gamified learning.
 
 ---
 
-### 📘 English Learning Platform
-<a href="https://mohamedredjam-red.github.io/learning-english/" target="_blank" rel="noreferrer nofollow">
-  <img src="https://your-learning-platform-preview.png" alt="English Learning Platform" height="400">
-</a>
+## 🧠 About My English Learning Platform
 
----
-
-## 🧠 Latest Features (English Platform)
-
-- Skills system (A1 → C1)
-- Listening / Speaking / Reading / Writing
-- Interactive story reader (page flip system)
-- Grammar lessons (basic → intermediate)
-- Vocabulary flashcards (image + guessing)
+- Skills: Listening / Speaking / Reading / Writing (A1 → C1)
+- Interactive story reader (page flip system like *Little Red Riding Hood*)
+- Grammar lessons (basic level)
+- Vocabulary flashcards (image + guessing system)
 - Business English section
 - Games:
   - Hangman
   - Word Scramble
-- To-Do list for study goals
-- Text translator tool
+- To-Do List for study goals
+- Text Translator system
 - Kids English section
-- Custom listening mode (any text → audio)
+- Custom Listening Mode (any text → audio)
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- UI/UX Design
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedredjam-red&show_icons=true" alt="GitHub Stats">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedredjam-red&show_icons=true)
 
 ---
 
@@ -73,12 +59,4 @@
 - Improving English learning platform
 - Adding more interactive features
 - Learning advanced JavaScript
-- Building real-world web apps
-
----
-
-## ⭐ Buy Me A Coffee (Optional)
-
-<a href="#">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" height="40" width="170">
-</a>
+- Building real-world projects
