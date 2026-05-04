@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Redjam</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-<!--
-**mohamedredjam-red/mohamedredjam-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **JavaScript & Modern Web Technologies**
+- 💻 I build responsive and clean websites
+- 🎯 Focused on becoming a professional developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+---
+
+### 📫 Connect with me
+- Email: your-email@example.com
